@@ -1,8 +1,8 @@
 # BDNN simulator
 
-This is a snapshot of the [BDNNsim](https://github.com/thauffe/BDNNsim) library for python. It simulates lineage diversification under a birth-death process, the evolution of categorical and continuous traits, and a synthetic fossil record of occurrence data.
+This is a snapshot of the [BDNNsim](https://github.com/thauffe/BDNNsim) library for python v3. It simulates lineage diversification under a birth-death process, the evolution of categorical and continuous traits, and a synthetic fossil record of occurrence data.
 
-Basic usage to simulate a constant diversification without lineage-specific rates in python v3 is:
+Basic usage to simulate constant diversification without lineage-specific rates in python is:
 
 ```
 import sys
