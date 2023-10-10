@@ -12,4 +12,6 @@ This directory contains all data to reproduce the proboscidean analyses. These i
 
 Instructions on how to setup python are available at the [PyRate website](https://github.com/dsilvestro/PyRate/blob/master/tutorials/pyrate_tutorial_0.md)
 
-
+```
+python PyRate.py 
+```
