@@ -38,7 +38,7 @@ python /Path to PyRate/PyRate.py \
 -n 50000000 -s 10000 -p 1000000
 ```
 
-The */.../* should be replace with the path to this GitHub repository. This Bayesian analysis lasts ca. two weeks. It can be be made faster by specifiying less MCMC generation in the `-n` flag. On Linux systems, the flag `-thread 4 0` allows parallel calculation on four CPUs.
+The */.../* should be replace with the path to this GitHub repository. This Bayesian analysis lasts ca. two weeks. It can be be made faster by specifiying less MCMC generation in the `-n` flag. On Linux systems, the flag `-thread 4 0` allows parallel calculation on, for instance, four CPUs.
 
 
 ## Post-processing
@@ -51,11 +51,22 @@ python /Path to PyRate/PyRate.py \
 -plotBDNN_effects /.../BDNN/Proboscidea/PyRate_analyses/pyrate_mcmc_logs/proboscideans_2_G_BDS_BDNN_16_8TVcb_mcmc.log \
 -plotBDNN_transf_features /.../BDNN/Proboscidea/PyRate_analyses/Cont_stats_2.txt \
 -BDNN_groups "{\"Geography\": [\"Africa\", \"America\", \"Eurasia\", \"Island\"]}" \
--b 0.25 -resample 100
+-b 0.25 -resample 1000
 ```
 
-This can be speed-up on Linux and Mac systems with the flag `-thread 4 0`
+This can be speed-up on Linux and Mac systems with the flag `-thread 4 0` or by using less MCMC samples, which is specified by the `-resample` argument.
 
 ### Ranking the predictors' importance
 
+Finally, we rank the importance of the predictors on the inferred speciation and extinction rates. This will produce four text files and one PDF with plots in the pyrate_mcmc_logs sub-directory. *proboscideans_2_G_BDS_BDNN_16_8TVcb_ex_predictor_influence.csv* will summarize the results of three artificial explainable intelligence metrics and show their consensus rank. *proboscideans_2_G_BDS_BDNN_16_8TVcb_ex_shap_per_species.csv* shows with Shapley additive value (SHAP) for each species how much their species-time-specific rates deviate from the average acroos all species due to the effect of each predictor.
+
+```
+python /Path to PyRate/PyRate.py \
+-BDNN_pred_importance /.../BDNN/Proboscidea/PyRate_analyses/pyrate_mcmc_logs/proboscideans_2_G_BDS_BDNN_16_8TVcb_mcmc.log \
+-BDNN_groups "{\"Geography\": [\"Africa\", \"America\", \"Eurasia\", \"Island\"]}" \
+-BDNN_pred_importance_window_size 0.1 \
+-b 0.25 -resample 1000
+```
+
+This step is slow but it can be speed-up on Linux and Mac systems with the flag `-thread 4 0`, by using less MCMC samples, specified by the `-resample` argument, and with `-BDNN_pred_importance_only_main`, which calculates only the importance of individual predictors but not their interactions.
 
