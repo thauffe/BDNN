@@ -45,10 +45,17 @@ The */.../* should be replace with the path to this GitHub repository. This Baye
 
 ### Visualizing the effect of diversification predictors on rates
 
+We can visualize the effect of a single predictor or the interaction between two predictors on speciation and extinction rates using partial dependence plots. These marginalize over the effects of the remaining predictors. The following command will produce a PDF file called *proboscideans_2_G_BDS_BDNN_16_8TVcb_PDP.pdf* in the pyrate_mcmc_logs sub-directory.
 ```
-python3 /home/thauffe/BDNN/PyRate/PyRate.py \
--plotBDNN_effects /data/users/thauffe/BDNN/Proboscideans/PyRateAnalyses40Ma/Humans_Island_SpTemp_Grass_Juan/pyrate_mcmc_logs/proboscideans_${SLURM_ARRAY_TASK_ID}_G_BDS_BDNN_16_8TVcb_mcmc.log \
--plotBDNN_transf_features /data/users/thauffe/BDNN/Proboscideans/PyRateAnalyses40Ma/Humans_Island_SpTemp_Grass_Juan/Cont_stats_${SLURM_ARRAY_TASK_ID}.txt \
--BDNN_groups '{"Geography": ["Africa", "America", "Eurasia", "Island"]}' \
--b 0.25 -resample 100 -thread 10 0
+python /Path to PyRate/PyRate.py \
+-plotBDNN_effects /.../BDNN/Proboscidea/PyRate_analyses/pyrate_mcmc_logs/proboscideans_2_G_BDS_BDNN_16_8TVcb_mcmc.log \
+-plotBDNN_transf_features /.../BDNN/Proboscidea/PyRate_analyses/Cont_stats_2.txt \
+-BDNN_groups "{\"Geography\": [\"Africa\", \"America\", \"Eurasia\", \"Island\"]}" \
+-b 0.25 -resample 100
 ```
+
+This can be speed-up on Linux and Mac systems with the flag `-thread 4 0`
+
+### Ranking the predictors' importance
+
+
