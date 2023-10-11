@@ -58,7 +58,7 @@ This can be speed-up on Linux and Mac systems with the flag `-thread 4 0` or by 
 
 ### Ranking the predictors' importance
 
-Finally, we rank the importance of the predictors on the inferred speciation and extinction rates. This will produce four text files and one PDF with plots in the pyrate_mcmc_logs sub-directory. *proboscideans_2_G_BDS_BDNN_16_8TVcb_ex_predictor_influence.csv* will summarize the results of three artificial explainable intelligence metrics and show their consensus rank. *proboscideans_2_G_BDS_BDNN_16_8TVcb_ex_shap_per_species.csv* shows with Shapley additive value (SHAP) for each species how much their species-time-specific rates deviate from the average acroos all species due to the effect of each predictor.
+Finally, we rank the importance of the predictors on the inferred speciation and extinction rates.
 
 ```
 python /Path to PyRate/PyRate.py \
@@ -69,4 +69,8 @@ python /Path to PyRate/PyRate.py \
 ```
 
 This step is slow but it can be speed-up on Linux and Mac systems with the flag `-thread 4 0`, by using less MCMC samples, specified by the `-resample` argument, and with `-BDNN_pred_importance_only_main`, which calculates only the importance of individual predictors but not their interactions.
+
+This step will produce five text files and one PDF with plots in the pyrate_mcmc_logs sub-directory. The coefficient of rate variation is safed in the file *proboscideans_2_G_BDS_BDNN_16_8TVcb_coefficient_of_rate_variation.csv*. The text file *proboscideans_2_G_BDS_BDNN_16_8TVcb_ex_predictor_influence.csv* (and *sp* for speciation) summarizes the results of three artificial explainable intelligence metrics and show their consensus rank. The text file *proboscideans_2_G_BDS_BDNN_16_8TVcb_ex_shap_per_species.csv* (and *sp* for speciation) shows with Shapley additive value (SHAP) for each species how much their species-time-specific rates deviate from the average acroos all species due to the effect of each predictor. The latter is used to produce the *proboscideans_2_G_BDS_BDNN_16_8TVcb_contribution_per_species_rates.pdf* plot, which shows the rates and SHAP values per species.
+
+![SHAP values extinction](https://github.com/thauffe/BDNN/tree/main/Proboscidea/Plots/Contribution_extinction.png)
 
