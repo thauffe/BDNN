@@ -1,0 +1,181 @@
+	PFT	tooth_type	transversal_lophs	hypsodonty_categorical	body_size_cat	acute_lophs	obtuse_lophs	occlusal_topography	horizodonty_Probosc	enamel_folding_or_ptychodonty	skull_shape	upper.tusks	lower.tusks	mandible	mandibular.symphysis	pattern.of.mastication_POM	teeth.replacement	foot.posture
+Eritherium_azzouzorum	1	bun	0	bra	1	0	0	0	1	0	skull_non_special	up_tusk_incisor_like				POM_gomph	P4 present	plantigrade
+Khamsaconus_bulbosus	1	bun	0	bra	1	0	0	0	1	0						POM_dein		
+Moeritherium_andrewsi	1	bun	0	bra	1	0	0	0	1	0	skull_non_bathyceph_flat	up_tusk_hippo_like	low_tsk_short	mandb_short_noTusks	symph_reduced	POM_gomph	P4 present	plantigrade
+Moeritherium_chehbeurameuri	1	bun	0	bra	1	0	0	0	1	0	skull_non_bathyceph_flat	up_tusk_hippo_like	low_tsk_short	mandb_short_noTusks	symph_reduced	POM_gomph	P4 present	plantigrade
+Moeritherium_lyonsi	1	bun	0	bra	1	0	0	0	1	0	skull_non_bathyceph_flat	up_tusk_hippo_like	low_tsk_short	mandb_short_noTusks	symph_reduced	POM_gomph	P4 present	plantigrade
+Moeritherium_trigodon	1	bun	0	bra	2	0	0	0	1	0	skull_non_bathyceph_flat	up_tusk_hippo_like	low_tsk_short	mandb_short_noTusks	symph_reduced	POM_gomph	P4 present	plantigrade
+Palaeomastodon_beadnelli	1	bun	0	bra	3	0	1	0	2	0	skull_non_bathyceph_flat	up_tsk_down_curved	low_tsk_flat_shovel	mandb_long_straight	symph_long_parall	POM_dein	P4 present	subunguligrade
+Phiomia_major	1	bun	0	bra	3	0	1	0	2	0	skull_non_bathyceph_flat	up_tsk_down_curved	low_tsk_flat_shovel	mandb_long_straight	symph_long_parall	POM_dein	P4 present	subunguligrade
+Phiomia_serridens	1	bun	0	bra	3	0	1	0	2	0	skull_non_bathyceph_flat	up_tsk_down_curved	low_tsk_flat_shovel	mandb_long_straight	symph_long_parall	POM_dein	P4 present	subunguligrade
+Barytherium_grave	2	bil	1	bra	5	1	0	0	1	0	skull_non_bathyceph_domed	up_tsk_down_curved	low_tsk_short	mandb_long_straight	symph_reduced	POM_dein	P4 present	plantigrade
+Chilgatherium_harrisi	2	bil	1	bra	3	1	0	0	1	0						POM_dein	P4 present	subunguligrade
+Daouitherium_rebouli	2	bil	0	bra	1	1	0	0	1	0			low_tsk_short	mandb_short_noTusks	symph_reduced	POM_dein	P4 present	plantigrade
+Deinotherium_bozasi	2	bil	1	bra	7	1	0	0	1	0	skull_non_bathyceph_domed	up_tsk_strong_up_curve	low_tsk_conical	mandb_reduced	symph_reduced	POM_dein	P4 present	subunguligrade
+Deinotherium_giganteum	2	bil	1	bra	7	1	0	0	1	0	skull_non_bathyceph_flat	up_tsk_strong_up_curve	low_tsk_conical	mandb_reduced	symph_reduced	POM_dein	P4 present	subunguligrade
+Deinotherium_indicum	2	bil	1	bra	7	1	0	0	1	0	skull_non_bathyceph_flat	up_tsk_strong_up_curve	low_tsk_conical	mandb_reduced	symph_reduced	POM_dein	P4 present	subunguligrade
+Deinotherium_levius	2	bil	1	bra	6	1	0	0	1	0	skull_non_bathyceph_flat	up_tsk_strong_up_curve	low_tsk_conical	mandb_reduced	symph_reduced	POM_dein	P4 present	subunguligrade
+Deinotherium_proavum	2	bil	1	bra	7	1	0	0	1	0	skull_non_bathyceph_flat	up_tsk_strong_up_curve	low_tsk_conical	mandb_reduced	symph_reduced	POM_dein	P4 present	subunguligrade
+Losodokodon_losodokius	2	blm	2	bra	2	1	0	0	2	0	skull_non_bathyceph_flat	up_tsk_down_curved				POM_mammuth		
+Numidotherium_koholense	2	bil	1	bra	2	1	0	0	1	0	skull_non_bathyceph_domed	up_tsk_down_curved	low_tsk_short	mandb_short_noTusks	symph_reduced	POM_dein	P4 present	plantigrade
+Numidotherium_savagei	2	bil	1	bra	2	1	0	0	1	0	skull_non_bathyceph_domed	up_tsk_down_curved	low_tsk_short	mandb_short_noTusks	symph_reduced	POM_dein	P4 present	plantigrade
+Omanitherium_dhofarensis	2	bil	1	bra	2	1	0	0	1	0		up_tsk_down_curved	low_tsk_short	mandb_long_straight	symph_reduced	POM_dein	P4 present	plantigrade
+Phosphatherium_escuilliei	2	bil	1	bra	1	1	0	0	1	0	skull_non_special	up_tusk_incisor_like	low_tsk_short	mandb_short_noTusks	symph_reduced	POM_dein	P4 present	
+Prodeinotherium_bavaricum	2	bil	1	bra	5	1	0	0	1	0	skull_non_bathyceph_flat	up_tsk_lost_upsent	low_tsk_conical	mandb_reduced	symph_long_parall	POM_dein	P4 present	subunguligrade
+Prodeinotherium_hobleyi	2	bil	1	bra	5	1	0	0	1	0	skull_non_bathyceph_flat	up_tsk_lost_upsent	low_tsk_conical	mandb_reduced	symph_long_parall	POM_dein	P4 present	subunguligrade
+Prodeinotherium_pentapotamiae	2	bil	1	bra	5	1	0	0	1	0	skull_non_bathyceph_flat	up_tsk_lost_upsent	low_tsk_conical	mandb_reduced	symph_long_parall	POM_dein	P4 present	subunguligrade
+Afrochoerodon_kisumuensis	3	bun	0	bra	4	0	1	0	3	0	skull_non_bathyceph_domed	up_tsk_gentle_up-curve				POM_gomph	P4 absent	subunguligrade
+Afromastodon_coppensi	3	bun	0	bra	5	0	1	0	3	0						POM_gomph	P4 absent	subunguligrade
+Aphanobelodon_zhaoi	3	bun	0	bra	3	0	1	0	3	0	skull_non_bathyceph_flat	up_tsk_strong_up_curve	low_tsk_flat_shovel	mandb_long_straight	symph_long_broad	POM_gomph	P4 absent	subunguligrade
+Archaeobelodon_filholi	3	blm	0	bra	4	0	1	0	3	0	skull_non_bathyceph_flat	up_tsk_down_curved	low_tsk_flat_shovel	mandb_long_straight	symph_long_parall	POM_gomph	P4 absent	subunguligrade
+Choerolophodon_anatolicus	3	bun	0	bra	4	0	1	0	3	0	skull_non_bathyceph_flat	up_tsk_gentle_up-curve	low_tsk_absent	mandb_long_straight	symph_long_parall	POM_gomph	P4 absent	subunguligrade
+Choerolophodon_chioticus	3	bun	0	bra	4	0	1	0	3	0	skull_non_bathyceph_domed	up_tsk_gentle_up-curve	low_tsk_absent	mandb_long_straight	symph_long_parall	POM_gomph	P4 absent	subunguligrade
+Choerolophodon_corrugatus	3	bun	0	bra	3	1	0	0	1	0	skull_non_bathyceph_flat	up_tsk_strong_up_curve	low_tsk_absent	mandb_long_straight	symph_long_parall	POM_gomph	P4 absent	subunguligrade
+Choerolophodon_guangheensis	3	bun	0	bra	4	0	1	0	3	1	skull_non_bathyceph_flat	up_tsk_gentle_up-curve	low_tsk_absent	mandb_long_straight	symph_long_parall	POM_gomph	P4 absent	subunguligrade
+Choerolophodon_ngorora	3	bun	0	bra	4	0	1	0	3	1			low_tsk_absent	mandb_long_straight	symph_long_parall	POM_gomph	P4 absent	subunguligrade
+Choerolophodon_pentelici	3	bun	0	bra	4	0	1	0	3	1	skull_non_bathyceph_flat	up_tsk_strong_up_curve	low_tsk_absent	mandb_long_straight	symph_long_parall	POM_gomph	P4 absent	subunguligrade
+Eritreum_melakeghebrekristosi	3	bun	0	bra	3	0	1	0	2	0						POM_gomph	P4 present	subunguligrade
+Gomphotherium_angustidens	3	bun	0	bra	5	0	1	0	3	0	skull_non_bathyceph_domed	up_tsk_down_curved	low_tsk_conical	mandb_long_straight	symph_long_parall	POM_gomph	P4 absent	subunguligrade
+Gomphotherium_annectens	3	bun	0	bra	4	0	1	0	3	0		up_tsk_down_curved	low_tsk_conical	mandb_long_straight	symph_long_parall	POM_gomph	P4 absent	subunguligrade
+Gomphotherium_basal	3	bun	0	bra	3	0	1	0	2	0		up_tsk_down_curved	low_tsk_conical	mandb_long_straight	symph_long_parall	POM_gomph	P4 absent	subunguligrade
+Gomphotherium_browni	3	bun	0	bra	5	0	1	0	3	0		up_tsk_down_curved	low_tsk_conical	mandb_long_straight	symph_long_parall	POM_gomph	P4 absent	subunguligrade
+Gomphotherium_connexum	3	bun	0	bra	4	0	1	0	3	0		up_tsk_down_curved	low_tsk_conical	mandb_long_straight	symph_long_parall	POM_gomph	P4 absent	subunguligrade
+Gomphotherium_cooperi	3	bun	0	bra	4	0	1	0	2	0		up_tsk_down_curved	low_tsk_conical	mandb_long_straight	symph_long_parall	POM_gomph	P4 absent	subunguligrade
+Gomphotherium_hannibali	3	bun	0	bra	4	0	1	0	3	0		up_tsk_down_curved	low_tsk_conical	mandb_long_straight	symph_long_parall	POM_gomph	P4 absent	subunguligrade
+Gomphotherium_inopinatum	3	bun	0	bra	4	0	1	0	3	0	skull_non_bathyceph_flat	up_tsk_down_curved	low_tsk_conical	mandb_long_straight	symph_long_parall	POM_gomph	P4 absent	subunguligrade
+Gomphotherium_mongoliense	3	bun	0	bra	4	0	1	0	3	0		up_tsk_down_curved	low_tsk_conical	mandb_long_straight	symph_long_parall	POM_gomph	P4 absent	subunguligrade
+Gomphotherium_steinheimense	3	bun	0	bra	6	0	1	0	3	0	skull_non_bathyceph_domed	up_tsk_down_curved	low_tsk_conical	mandb_long_straight	symph_long_parall	POM_gomph	P4 absent	subunguligrade
+Gomphotherium_subtapiroideum	3	bun	0	bra	3	0	1	0	3	0	skull_non_bathyceph_domed	up_tsk_down_curved	low_tsk_conical	mandb_long_straight	symph_long_parall	POM_gomph	P4 absent	subunguligrade
+Gomphotherium_sylvaticum	3	bun	0	bra	4	0	1	0	2	0		up_tsk_down_curved	low_tsk_conical	mandb_long_straight	symph_long_parall	POM_gomph	P4 absent	subunguligrade
+Gomphotherium_tassyi	3	bun	0	bra	4	0	1	0	3	0	skull_non_bathyceph_domed	up_tsk_down_curved	low_tsk_conical	mandb_long_straight	symph_long_parall	POM_gomph	P4 absent	subunguligrade
+Gomphotherium_wimani	3	bun	0	bra	4	0	1	0	3	0		up_tsk_down_curved	low_tsk_conical	mandb_long_straight	symph_long_parall	POM_gomph	P4 absent	subunguligrade
+Hemimastodon_crepusculi	3	bun	0	bra	3	0	1	0	2	0								subunguligrade
+Paratetralophodon_exoletus	3	bun	0	bra	5	0	1	0	4	0	skull_non_bathyceph_domed	up_tsk_down_curved	low_tsk_conical	mandb_long_angled	symph_long_parall	POM_gomph	P4 absent	subunguligrade
+Progomphotherium_maraisi	3	bun	0	bra	3	0	1	0	3	0	skull_non_bathyceph_flat					POM_gomph	P4 absent	subunguligrade
+Tetralophodon_longirostris	3	bun	0	bra	5	0	1	0	3	0	skull_non_bathyceph_domed	up_tsk_down_curved	low_tsk_conical	mandb_long_angled	symph_long_parall	POM_gomph	P4 absent	subunguligrade
+Tetralophodon_xiaolongtanensis	3	bun	0	bra	5	0	1	0	3	0	skull_non_bathyceph_domed	up_tsk_down_curved	low_tsk_conical	mandb_long_angled	symph_long_parall	POM_gomph	P4 absent	subunguligrade
+Eozygodon_morotoensis	4	zygo	2	bra	5	1	0	0	2	0	skull_non_bathyceph_flat	up_tsk_down_curved				POM_mammuth	P4 absent	subunguligrade
+Mammut_americanum	4	zygo	3	bra	6	1	0	0	3	0	skull_non_bathyceph_flat	up_tsk_gentle_up-curve	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_mammuth	P4 absent	subunguligrade
+Mammut_borsoni	4	zygo	3	bra	7	1	0	0	3	0	skull_non_bathyceph_flat	up_tsk_nearly_straight	low_tsk_conical	mandb_short_noTusks	symph_reduced	POM_mammuth	P4 absent	subunguligrade
+Mammut_obliquelophus	4	zygo	3	bra	7	1	0	0	3	0	skull_non_bathyceph_flat	up_tsk_nearly_straight	low_tsk_conical	mandb_long_straight	symph_long_parall	POM_mammuth	P4 absent	subunguligrade
+Miomastodon_gobiensis	4	zygo	3	bra	5	1	0	0	3	0	skull_non_bathyceph_flat	up_tsk_down_curved	low_tsk_conical	mandb_short_noTusks	symph_reduced	POM_mammuth	P4 absent	subunguligrade
+Miomastodon_metachinjiensis	4	zygo	3	bra	5	1	0	0	3	0		up_tsk_down_curved	low_tsk_conical	mandb_short_noTusks	symph_reduced	POM_mammuth	P4 absent	subunguligrade
+Miomastodon_proavus	4	zygo	3	bra	5	1	0	0	3	0		up_tsk_down_curved	low_tsk_conical	mandb_short_noTusks	symph_reduced	POM_mammuth	P4 absent	subunguligrade
+Sinomastodon_praeintermedius	4	zygo	3	bra	5	1	0	0	3	0		up_tsk_nearly_straight	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_gomph	P4 absent	subunguligrade
+Zygolophodon_aegyptensis	4	zygo	3	bra	4	1	0	0	3	0	skull_non_bathyceph_flat	up_tsk_down_curved		mandb_short_noTusks	symph_reduced	POM_mammuth	P4 absent	subunguligrade
+Zygolophodon_chinjiensis	4	zygo	3	bra	5	1	0	0	3	0	skull_non_bathyceph_flat	up_tsk_down_curved		mandb_short_noTusks	symph_reduced	POM_mammuth	P4 absent	subunguligrade
+Zygolophodon_turicensis	4	zygo	3	bra	6	1	0	0	3	0	skull_non_bathyceph_flat	up_tsk_down_curved	low_tsk_conical	mandb_short_noTusks	symph_reduced	POM_mammuth	P4 absent	subunguligrade
+Amebelodon_floridanus	5	blm	0	bra	5	0	1	0	3	0	skull_non_bathyceph_domed	up_tsk_down_curved	low_tsk_flat_shovel	mandb_long_angled	symph_long_broad	POM_gomph	P4 absent	subunguligrade
+Amebelodon_fricki	5	blm	0	bra	6	0	1	0	3	0	skull_non_bathyceph_domed	up_tsk_down_curved	low_tsk_flat_shovel	mandb_long_angled	symph_long_broad	POM_gomph	P4 absent	subunguligrade
+Eubelodon_morrilli	5	blm	0	bra	5	0	1	0	3	0	skull_non_bathyceph_domed	up_tsk_down_curved	low_tsk_conical	mandb_long_straight	symph_long_parall	POM_gomph	P4 absent	subunguligrade
+Gnathabelodon_buckneri	5	blm	0	bra	5	0	1	0	3	0	skull_non_bathyceph_domed	up_tsk_gentle_up-curve	low_tsk_absent	mandb_long_straight	symph_long_broad	POM_gomph	P4 absent	subunguligrade
+Gnathabelodon_thorpei	5	blm	0	bra	6	0	1	0	3	0	skull_non_bathyceph_domed	up_tsk_gentle_up-curve	low_tsk_absent	mandb_long_straight	symph_long_broad	POM_gomph	P4 absent	subunguligrade
+Gomphotherium_productum	5	blm	0	bra	4	0	1	0	3	0	skull_non_bathyceph_domed	up_tsk_down_curved	low_tsk_conical	mandb_long_straight	symph_long_parall	POM_gomph	P4 absent	subunguligrade
+Konobelodon_atticus	5	blm	0	bra	5	0	1	0	4	0	skull_non_bathyceph_domed	up_tsk_nearly_straight	low_tsk_flat_shovel	mandb_long_straight	symph_long_parall	POM_gomph	P4 absent	subunguligrade
+Konobelodon_britti	5	blm	0	bra	6	0	1	0	4	0	skull_non_bathyceph_flat	up_tsk_nearly_straight	low_tsk_flat_shovel	mandb_long_straight	symph_long_parall	POM_gomph	P4 absent	subunguligrade
+Konobelodon_cyrenaicus	5	blm	0	bra	6	0	1	0	3	0			low_tsk_flat_shovel	mandb_long_angled	symph_long_broad	POM_gomph	P4 absent	subunguligrade
+Konobelodon_robustus	5	blm	0	bra	5	0	1	0	4	0		up_tsk_down_curved	low_tsk_flat_shovel	mandb_long_straight	symph_long_parall	POM_gomph	P4 absent	subunguligrade
+Megabelodon_joraki	5	blm	0	bra	5	0	1	0	3	0	skull_non_bathyceph_domed	up_tsk_down_curved	low_tsk_conical	mandb_long_straight	symph_long_parall	POM_gomph	P4 absent	subunguligrade
+Megabelodon_lulli	5	blm	0	bra	5	0	1	0	3	0	skull_non_bathyceph_domed	up_tsk_down_curved	low_tsk_conical	mandb_long_straight	symph_long_parall	POM_gomph	P4 absent	subunguligrade
+Megabelodon_minor	5	blm	0	bra	4	0	1	0	3	0	skull_non_bathyceph_domed	up_tsk_down_curved	low_tsk_conical	mandb_long_straight	symph_long_parall	POM_gomph	P4 absent	subunguligrade
+Paratetralophodon_hasnotensis	5	bun	0	bra	5	0	1	0	3	0	skull_non_bathyceph_domed	up_tsk_down_curved	low_tsk_flat_shovel	mandb_long_angled	symph_long_parall	POM_gomph	P4 absent	subunguligrade
+Pediolophodon_campester	5	blm	0	bra	5	0	1	0	3	0	skull_non_bathyceph_domed	up_tsk_down_curved	low_tsk_conical	mandb_long_angled	symph_long_parall	POM_gomph	P4 absent	subunguligrade
+Platybelodon_dangheensis	5	bun	0	bra	3	0	1	0	3	0	skull_non_bathyceph_domed	up_tsk_down_curved	low_tsk_flat_shovel	mandb_long_angled	symph_long_broad	POM_gomph	P4 absent	subunguligrade
+Platybelodon_danovi	5	bun	0	bra	3	0	1	0	3	0	skull_non_bathyceph_domed	up_tsk_down_curved	low_tsk_flat_shovel	mandb_long_angled	symph_long_broad	POM_gomph	P4 absent	subunguligrade
+Platybelodon_grangeri	5	bun	0	bra	3	0	1	0	3	0	skull_non_bathyceph_domed	up_tsk_down_curved	low_tsk_flat_shovel	mandb_long_angled	symph_long_broad	POM_gomph	P4 absent	subunguligrade
+Platybelodon_tongxinensis	5	bun	0	bra	3	0	1	0	3	0	skull_non_bathyceph_domed	up_tsk_down_curved	low_tsk_flat_shovel	mandb_long_angled	symph_long_broad	POM_gomph	P4 absent	subunguligrade
+Protanancus_brevirostris	5	bun	0	bra	4	0	1	0	3	0	skull_non_bathyceph_domed	up_tsk_down_curved	low_tsk_flat_shovel	mandb_long_angled	symph_long_broad	POM_gomph	P4 absent	subunguligrade
+Protanancus_chinjiensis	5	bun	0	bra	5	0	1	0	3	0	skull_non_bathyceph_domed	up_tsk_down_curved	low_tsk_flat_shovel	mandb_long_angled	symph_long_broad	POM_gomph	P4 absent	subunguligrade
+Protanancus_macinnesi	5	bun	0	bra	5	0	1	0	3	0	skull_non_bathyceph_domed	up_tsk_down_curved	low_tsk_flat_shovel	mandb_long_angled	symph_long_broad	POM_gomph	P4 absent	subunguligrade
+Protanancus_tobieni	5	bun	0	bra	5	0	1	0	3	0	skull_non_bathyceph_domed	up_tsk_down_curved	low_tsk_flat_shovel	mandb_long_angled	symph_long_broad	POM_gomph	P4 absent	subunguligrade
+Rhynchotherium_falconeri	5	blm	0	mes	4	0	1	0	3	0	skull_non_bathyceph_domed	up_tsk_down_curved	low_tsk_conical	mandb_long_angled	symph_long_parall	POM_gomph	P4 absent	subunguligrade
+Rhynchotherium_tlascalae	5	blm	0	bra	5	0	1	0	3	0	skull_non_bathyceph_domed	up_tsk_down_curved	low_tsk_conical	mandb_long_angled	symph_long_parall	POM_gomph	P4 absent	subunguligrade
+Serbelodon_barbourensis	5	blm	0	bra	5	0	1	0	3	0	skull_non_bathyceph_domed	up_tsk_down_curved	low_tsk_flat_shovel	mandb_long_angled	symph_long_broad	POM_gomph	P4 absent	subunguligrade
+Stegotetrabelodon_orbus	5	blm	4	bra	6	0	1	1	4	0	skull_non_bathyceph_domed	up_tsk_nearly_straight	low_tsk_conical	mandb_long_angled	symph_long_parall	POM_gomph	P4 absent	subunguligrade
+Stegotetrabelodon_syrticus	5	blm	4	bra	7	0	1	1	4	0	skull_non_bathyceph_domed	up_tsk_nearly_straight	low_tsk_conical	mandb_long_angled	symph_long_parall	POM_gomph	P4 absent	subunguligrade
+Tetralophodon_euryrostris	5	blm	0	bra	5	0	1	0	3	0	skull_non_bathyceph_domed	up_tsk_down_curved	low_tsk_flat_shovel	mandb_long_angled	symph_long_parall	POM_gomph	P4 absent	subunguligrade
+Torynobelodon_barnumbrowni	5	blm	0	bra	3	0	1	0	3	0		up_tsk_down_curved	low_tsk_flat_shovel	mandb_long_straight	symph_long_broad	POM_gomph	P4 absent	subunguligrade
+Torynobelodon_loomisi	5	blm	0	bra	3	0	1	0	3	0		up_tsk_down_curved	low_tsk_flat_shovel	mandb_long_straight	symph_long_broad	POM_gomph	P4 absent	subunguligrade
+Anancus_arvernensis	6	bun	0	bra	5	0	1	0	3	1	skull_bathyceph	up_tsk_nearly_straight	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_gomph	P4 absent	subunguligrade
+Anancus_kazachstanensis	6	bun	0	bra	5	0	1	0	3	1	skull_bathyceph	up_tsk_nearly_straight	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_gomph	P4 absent	subunguligrade
+Anancus_kenyensis	6	bun	0	bra	5	0	1	0	3	1	skull_bathyceph		low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_gomph	P4 absent	subunguligrade
+Anancus_lehmanni	6	bun	0	bra	5	0	1	0	3	1		up_tsk_down_curved	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_gomph	P4 absent	subunguligrade
+Anancus_osiris	6	bun	0	bra	5	0	1	0	3	1		up_tsk_nearly_straight	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_gomph	P4 absent	subunguligrade
+Anancus_perimensis	6	bun	0	bra	5	0	1	0	3	0	skull_non_bathyceph_domed		low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_gomph	P4 absent	subunguligrade
+Anancus_petrocchii	6	bun	0	bra	5	0	1	0	4	0			low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_gomph	P4 absent	subunguligrade
+Anancus_sinensis	6	bun	0	bra	5	0	1	0	4	1		up_tsk_nearly_straight	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_gomph	P4 absent	subunguligrade
+Anancus_sivalensis	6	bun	0	bra	5	0	1	0	4	1	skull_bathyceph	up_tsk_nearly_straight	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_gomph	P4 absent	subunguligrade
+Anancus_ultimus	6	bun	0	bra	5	0	1	0	4	1	skull_bathyceph		low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_gomph	P4 absent	subunguligrade
+Cuvieronius_hyodon	6	blm	0	mes	5	0	1	0	3	0	skull_non_bathyceph_domed	up_tsk_nearly_straight	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_gomph	P4 absent	subunguligrade
+Platelephas_platycephalus	6	lam	7	hyp	5	0	1	1	7	1	skull_non_bathyceph_domed		low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_gomph	P4 absent	subunguligrade
+Sinomammut_tobieni	6	bun	3	bra	5	0	1	0	3	0			low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_mammuth	P4 absent	subunguligrade
+Sinomastodon_bumiajuensis	6	bun	0	bra	3	0	1	0	3	0		up_tsk_nearly_straight	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_gomph	P4 absent	subunguligrade
+Sinomastodon_huananensis	6	bun	3	bra	5	1	0	0	3	0		up_tsk_nearly_straight	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_gomph	P4 absent	subunguligrade
+Sinomastodon_intermedius	6	bun	3	bra	4	1	1	0	3	0		up_tsk_nearly_straight	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_gomph	P4 absent	subunguligrade
+Sinomastodon_jiangnanensis	6	bun	0	bra	5	0	1	0	3	0	skull_bathyceph	up_tsk_nearly_straight	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_gomph	P4 absent	subunguligrade
+Sinomastodon_sendaicus	6	bun	3	bra	5	1	1	0	3	0		up_tsk_nearly_straight	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_gomph	P4 absent	subunguligrade
+Sinomastodon_yangziensis	6	bun	0	bra	5	0	1	0	4	0		up_tsk_nearly_straight	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_gomph	P4 absent	subunguligrade
+Stegodibelodon_schneideri	6	blm	4	bra	6	0	1	1	4	0				mandb_long_angled	symph_long_parall	POM_eleph	P4 absent	subunguligrade
+Stegolophodon_hueiheensis	6	blm	3	bra	5	0	1	0	3	0		up_tsk_down_curved		mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Stegolophodon_latidens	6	blm	4	bra	5	0	1	0	4	0		up_tsk_down_curved	low_tsk_conical	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Stegolophodon_lydekkeri	6	blm	4	bra	5	0	1	0	4	0		up_tsk_down_curved		mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Stegolophodon_nasaiensis	6	blm	3	bra	5	0	1	0	3	0		up_tsk_down_curved	low_tsk_conical	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Stegolophodon_pseudolatidens	6	blm	3	bra	5	0	1	0	3	0	skull_bathyceph	up_tsk_down_curved	low_tsk_conical	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Stegolophodon_stegodontoides	6	blm	4	bra	5	0	1	0	4	0		up_tsk_down_curved		mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Stegomastodon_aftoniae	6	blm	4	mes	5	0	1	0	4	1	skull_bathyceph	up_tsk_nearly_straight	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_gomph	P4 absent	subunguligrade
+Stegomastodon_mirificus	6	blm	3	mes	5	0	1	0	3	0	skull_bathyceph	up_tsk_nearly_straight	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_gomph	P4 absent	subunguligrade
+Stegomastodon_platensis	6	blm	0	mes	5	0	1	0	3	1	skull_bathyceph	up_tsk_nearly_straight	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_gomph	P4 absent	subunguligrade
+Stegomastodon_primitivus	6	blm	3	mes	5	0	1	0	3	0	skull_bathyceph	up_tsk_nearly_straight	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_gomph	P4 absent	subunguligrade
+Loxodonta_cookei	7	lam	4	bra	5	0	1	1	4	0	skull_bathyceph	up_tsk_gentle_up-curve	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Mammuthus_subplanifrons	7	lam	4	bra	6	0	1	1	4	0		up_tsk_gentle_up-curve	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Primelephas_korotorensis	7	lam	4	bra	5	0	1	1	4	0	skull_bathyceph		low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Stegodon_aurorae	7	lam	6	bra	5	0	1	0	6	0	skull_bathyceph	up_tsk_nearly_straight	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Stegodon_bombifrons	7	lam	4	bra	5	0	1	0	4	0	skull_bathyceph	up_tsk_nearly_straight	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Stegodon_elephantoides	7	lam	5	bra	5	0	1	0	5	0	skull_bathyceph	up_tsk_nearly_straight	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Stegodon_florensis	7	lam	6	bra	3	0	1	0	6	0	skull_bathyceph	up_tsk_nearly_straight	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Stegodon_ganesa	7	lam	5	bra	5	0	1	0	5	0	skull_bathyceph	up_tsk_nearly_straight	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Stegodon_huananensis	7	lam	4	bra	5	0	1	0	4	0	skull_bathyceph	up_tsk_nearly_straight	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Stegodon_insignis	7	lam	5	bra	5	0	1	0	5	0	skull_bathyceph	up_tsk_nearly_straight	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Stegodon_kaisensis	7	lam	4	bra	5	0	1	0	4	0	skull_bathyceph	up_tsk_nearly_straight	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Stegodon_luzonensis	7	blm	4	bra	4	0	1	0	4	0	skull_bathyceph	up_tsk_nearly_straight	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Stegodon_orientalis	7	lam	6	bra	5	0	1	0	6	0	skull_bathyceph	up_tsk_nearly_straight	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Stegodon_pinjorensis	7	lam	5	bra	5	0	1	0	5	0	skull_bathyceph	up_tsk_nearly_straight	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Stegodon_sompoensis	7	lam	5	bra	3	0	1	0	5	0	skull_bathyceph	up_tsk_nearly_straight	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Stegodon_sondaari	7	lam	4	bra	2	0	1	0	4	0	skull_bathyceph	up_tsk_nearly_straight	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Stegodon_timorensis	7	lam	4	bra	2	0	1	0	4	0	skull_bathyceph	up_tsk_nearly_straight	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Stegodon_trigonocephalus	7	lam	5	bra	5	0	1	0	5	0	skull_bathyceph	up_tsk_nearly_straight	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Stegodon_zdanskyi	7	lam	4	bra	7	0	1	0	4	0	skull_bathyceph	up_tsk_nearly_straight	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Stegoloxodon_celebensis	7	lam	5	mes	2	0	1	1	5	0	skull_non_bathyceph_domed					POM_eleph	P4 absent	subunguligrade
+Elephas_atavus	8	lam	7	hyp	6	0	1	1	7	1	skull_bathyceph_hypsiceph	up_tsk_gentle_up-curve	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Elephas_ekorensis	8	lam	5	hyp	5	0	1	1	5	0	skull_bathyceph	up_tsk_gentle_up-curve	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Elephas_hysudricus	8	lam	7	hyp	6	0	1	1	7	1	skull_bathyceph_hypsiceph	up_tsk_gentle_up-curve	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Elephas_hysudrindicus	8	lam	7	hyp	6	0	1	1	7	1	skull_bathyceph_hypsiceph	up_tsk_gentle_up-curve	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Elephas_maximus	8	lam	7	hyp	5	0	1	1	7	1	skull_bathyceph_hypsiceph	up_tsk_gentle_up-curve	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Elephas_planifrons	8	lam	6	hyp	4	0	1	1	6	0	skull_bathyceph	up_tsk_gentle_up-curve	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Loxodonta_adaurora	8	lam	5	mes	7	0	1	1	5	0	skull_bathyceph	up_tsk_gentle_up-curve	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Loxodonta_africana	8	lam	6	hyp	5	0	1	1	6	0	skull_bathyceph	up_tsk_gentle_up-curve	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Loxodonta_atlantica	8	lam	6	hyp	6	0	1	1	6	1	skull_bathyceph	up_tsk_gentle_up-curve	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Loxodonta_cyclotis	8	lam	6	hyp	5	0	1	1	6	0	skull_bathyceph	up_tsk_gentle_up-curve	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Loxodonta_exoptata	8	lam	5	mes	6	0	1	1	5	0	skull_bathyceph	up_tsk_gentle_up-curve	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Mammuthus_africanavus	8	lam	5	mes	5	0	1	1	5	0	skull_bathyceph_hypsiceph	up_tsk_gentle_up-curve	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Mammuthus_columbi	8	lam	7	hyp	7	0	1	1	7	0	skull_bathyceph_hypsiceph	up_tsk_strong_up_curve	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Mammuthus_creticus	8	lam	6	mes	1	0	1	1	6	0	skull_bathyceph_hypsiceph		low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Mammuthus_exilis	8	lam	7	hyp	2	0	1	1	7	0	skull_bathyceph_hypsiceph	up_tsk_strong_up_curve	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Mammuthus_gromovi	8	lam	6	mes	6	0	1	1	6	0	skull_bathyceph_hypsiceph	up_tsk_strong_up_curve	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Mammuthus_lamarmorai	8	lam	7	hyp	2	0	1	1	7	0	skull_bathyceph_hypsiceph		low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Mammuthus_meridionalis	8	lam	6	hyp	7	0	1	1	6	0	skull_bathyceph_hypsiceph	up_tsk_strong_up_curve	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Mammuthus_primigenius	8	lam	7	hyp	5	0	1	1	7	0	skull_bathyceph_hypsiceph	up_tsk_strong_up_curve	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Mammuthus_protomammonteus	8	lam	7	hyp	5	0	1	1	7	0	skull_bathyceph_hypsiceph		low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Mammuthus_rumanus	8	lam	5	mes	6	0	1	1	5	0	skull_bathyceph_hypsiceph		low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Mammuthus_trogontherii	8	lam	7	hyp	7	0	1	1	7	0	skull_bathyceph_hypsiceph	up_tsk_strong_up_curve	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Palaeoloxodon_antiquus	8	lam	7	hyp	7	0	1	1	7	1	skull_bathyceph_hypsiceph	up_tsk_gentle_up-curve	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Palaeoloxodon_creutzburgi	8	lam	5	hyp	5	0	1	1	5	1		up_tsk_gentle_up-curve	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Palaeoloxodon_cypriotes	8	lam	5	hyp	1	0	1	1	5	1	skull_bathyceph	up_tsk_gentle_up-curve	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Palaeoloxodon_falconeri	8	lam	6	hyp	1	0	1	1	6	0	skull_bathyceph_hypsiceph	up_tsk_gentle_up-curve	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Palaeoloxodon_jolensis	8	lam	7	hyp	7	0	1	1	7	1	skull_bathyceph_hypsiceph	up_tsk_gentle_up-curve	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Palaeoloxodon_lomolinoi	8	lam	5	hyp	2	0	1	1	5	1		up_tsk_gentle_up-curve	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Palaeoloxodon_mnaidriensis	8	lam	7	hyp	3	0	1	1	7	0	skull_bathyceph_hypsiceph	up_tsk_gentle_up-curve	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Palaeoloxodon_namadicus	8	lam	7	hyp	7	0	1	1	7	1	skull_bathyceph_hypsiceph	up_tsk_gentle_up-curve	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Palaeoloxodon_naumanni	8	lam	7	hyp	6	0	1	1	7	1	skull_bathyceph_hypsiceph	up_tsk_gentle_up-curve	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Palaeoloxodon_recki	8	lam	7	hyp	7	0	1	1	7	1	skull_bathyceph_hypsiceph	up_tsk_gentle_up-curve	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
+Palaeoloxodon_tiliensis	8	lam	5	hyp	2	0	1	1	5	0		up_tsk_gentle_up-curve	low_tsk_absent	mandb_short_noTusks	symph_reduced	POM_eleph	P4 absent	subunguligrade
