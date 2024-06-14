@@ -52,4 +52,4 @@ write_PyRate = write_PyRate_files(output_wd = output_wd, name = name)
 name_file = write_PyRate.run_writter(sim_fossil, res_bd)
 ```
 
-The scripts for the eight diversification scenarios [Simulations](https://github.com/thauffe/BDNN/tree/main/Simulations) directory provide examples.
+The scripts for the nine diversification scenarios [Simulations](https://github.com/thauffe/BDNN/tree/main/Simulations) directory provide the exact setting used in the manuscript.
